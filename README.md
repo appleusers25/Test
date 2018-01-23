@@ -8,3 +8,6 @@ From the packages/IXP-PEERING/src/ dir
 Once done load up the NSO console and reload packages.
 ncs_cli -u admin -C
 'packages reload'
+
+
+Testing it
